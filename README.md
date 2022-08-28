@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **react.js, flutter**
 
+- 💬 Ask me about **react, flutter**
+
 - 📫 How to reach me **chandranpsharath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharath-wq&show_icons=true&locale=en&layout=compact" alt="sharath-wq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharath-wq&show_icons=true&locale=en" alt="sharath-wq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath-wq&" alt="sharath-wq" /></p>
 
