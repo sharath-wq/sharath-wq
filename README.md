@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [here]([https://sharath-wq.github.io/personal-website/](https://next-js-portfolio-ihmjrdj79-sharaths-projects-3fdc0455.vercel.app))
+- 👨‍💻 All of my projects are available at <a href="https://next-js-portfolio-ihmjrdj79-sharaths-projects-3fdc0455.vercel.app">Personal Website</a>
 
 - 💬 Ask me about **Nodejs**
 
